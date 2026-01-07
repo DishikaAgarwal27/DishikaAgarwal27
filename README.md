@@ -48,7 +48,8 @@ I believe great solutions come from:
 ### Programming & Web Technologies
 - Python  
 - HTML  
-- CSS  
+- CSS
+- Javascript
 
 ### Databases
 - MySQL  
