@@ -1,84 +1,68 @@
-<h1 align="center">Dishika Agarwal</h1>
+<h1 align="center">Hi 👋, I'm Dishika Agarwal</h1>
 
 <p align="center">
-  <b>B.Tech CSE (2nd Year) | Event Management Team Leader at PU-INCENT | Tech Enthusiast</b><br>
-  <i>Poornima University, Jaipur</i>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+skills+with+purpose;Leading+teams+with+clarity;Learning+technology+deeply&center=true&width=520&height=40">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+CSE+2nd+Year+Student;Event+Management+Team+Leader+@PU-INCENT;Tech+Enthusiast;Creative+%7C+Leader+%7C+Learner&center=true&width=550&height=45">
 </p>
 
 ---
 
-## 🧭 Who Am I?
+## 🌸 About Me
 
-I’m a **Computer Science student** who enjoys working at the intersection of  
+- 🎓 **B.Tech CSE (2nd Year)** at *Poornima University, Jaipur*
+- 🧭 **Event Management Team Leader** at **PU-INCENT**
+- 💻 Passionate **Tech Enthusiast**
+- 🎨 Strong in **visual communication & creative presentation**
+- 🚀 Love exploring tech, teamwork & innovation
+
+- I’m a **Computer Science student** who enjoys working at the intersection of  
 **technology, leadership, and creativity**.
 
 I believe great solutions come from:
 - Clear thinking 🧠
 - Strong teamwork 🤝
 - Continuous learning 📚
-- Effective communication 🗣️
+
+---
+
+## 🛠 Skills & Technologies
+
+### 💻 Programming Languages & Technologies
+- **Python**
+- **HTML**
+- **CSS**
+- **MySQL**
+
+
+
+### 🎨 Other Skills
+- Visual Communication (Canva)
+- Event Planning & Team Leadership
+- Creative Content Design
+- Effective communication
 - Adaptability in changing environments
 - Responsibility and ownership
 
 ---
 
-## 🎓 Academic Profile
-- **Degree:** B.Tech in Computer Science & Engineering  
-- **Year:** 2nd Year  
-- **University:** Poornima University, Jaipur  
+## 🚀 Current Focus
+- Strengthening **core computer science concepts**
+- Improving **web development skills**
+- Participating in **events, tech communities & hackathons**
 
 ---
 
-## 🧩 Leadership Experience
-- **Event Management Team Leader** at **PU-INCENT**
-- Experienced in:
-  - Team coordination
-  - Planning & execution
-  - Communication under pressure
-  - Managing people & deadlines
-
----
-
-## 💻 Technical Skill Set
-
-### Programming & Web Technologies
-- Python  
-- HTML  
-- CSS
-- Javascript
-
-### Databases
-- MySQL  
-
-### Creative & Communication Skills
-- Visual Communication (Canva)
-- Presentation Design
-- Creative Thinking
-
----
-
-## 🎯 Current Focus
-- Working on strengthening **core Computer Science fundamentals**
-- Working on applying **theoretical concepts to practical problems**
-- Working on building a strong foundation in **software development**
-- Working on preparing for **internships and industry exposure**
-
-
----
-
-## 📊 GitHub at a Glance
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DishikaAgarwal27&show_icons=true&theme=default" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DishikaAgarwal27&show_icons=true&hide_title=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DishikaAgarwal27" />
 </p>
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Connect With Me
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/DishikaAgarwal27">
@@ -89,8 +73,7 @@ I believe great solutions come from:
   </a>
 </p>
 
+
 ---
 
-<p align="center">
-  <i>“Learning with intent. Leading with responsibility. Building for impact.”</i>
-</p>
+⭐ *“Learning, leading, and growing—one step at a time.”*
