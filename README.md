@@ -1,83 +1,90 @@
-<h1 align="center">Hi 👋, I'm Dishika Agarwal</h1>
+<h1 align="center">Dishika Agarwal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+CSE+2nd+Year+Student;Event+Management+Team+Leader+@PU-INCENT;Tech+Enthusiast;Creative+%7C+Leader+%7C+Learner&center=true&width=550&height=45">
+  <b>B.Tech CSE (2nd Year) | Event Management Team Leader | Tech Enthusiast</b><br>
+  <i>Poornima University, Jaipur</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+skills+with+purpose;Leading+teams+with+clarity;Learning+technology+deeply&center=true&width=520&height=40">
 </p>
 
 ---
 
-## 🌸 About Me
-- 🎓 **B.Tech CSE (2nd Year)** at *Poornima University, Jaipur*
-- 🧭 **Event Management Team Leader** at **PU-INCENT**
-- 💻 Passionate **Tech Enthusiast**
-- 🎨 Strong in **visual communication & creative presentation**
-- 🚀 Love exploring tech, teamwork & innovation
+## 🧭 Who Am I?
+
+I’m a **Computer Science student** who enjoys working at the intersection of  
+**technology, leadership, and creativity**.
+
+I believe great solutions come from:
+- Clear thinking 🧠
+- Strong teamwork 🤝
+- Continuous learning 📚
 
 ---
 
-## 🛠 Skills & Technologies
+## 🎓 Academic Profile
+- **Degree:** B.Tech in Computer Science & Engineering  
+- **Year:** 2nd Year  
+- **University:** Poornima University, Jaipur  
 
-### 💻 Programming & Web
-### 💻 Programming Languages & Technologies
-- **Python**
-- **HTML**
-- **CSS**
-- **MySQL**
+---
 
+## 🧩 Leadership Experience
+- **Event Management Team Leader** at **PU-INCENT**
+- Experienced in:
+  - Team coordination
+  - Planning & execution
+  - Communication under pressure
+  - Managing people & deadlines
 
-### 🎨 Other Skills
+---
+
+## 💻 Technical Skill Set
+
+### Programming & Web Technologies
+- Python  
+- HTML  
+- CSS  
+
+### Databases
+- MySQL  
+
+### Creative & Communication Skills
 - Visual Communication (Canva)
-- Event Planning & Team Leadership
-- Creative Content Design
+- Presentation Design
+- Creative Thinking
 
 ---
 
-## 🚀 Current Focus
-- Strengthening **core computer science concepts**
-- Improving **web development skills**
-- Participating in **events, tech communities & hackathons**
+## 🎯 Current Focus
+- Strengthening **core CSE fundamentals**
+- Improving **problem-solving skills**
+- Building a strong **technical + leadership profile**
+- Preparing for **internships and real-world projects**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DishikaAgarwal27&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DishikaAgarwal27&show_icons=true&hide_title=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DishikaAgarwal27" />
-</p>
-
 ---
 
-## 🌐 Connect With Me
-## 🌐 Connect With Me
+## 🌐 Let’s Connect
 <p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
+    <img src="https://img.shields.io/badge/LinkedIn-Dishika%20Agarwal-blue?style=for-the-badge&logo=linkedin">
+  </a>
   <a href="https://github.com/DishikaAgarwal27">
     <img src="https://img.shields.io/badge/GitHub-DishikaAgarwal27-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/dishika-agarwal-911a01330">
-    <img src="https://img.shields.io/badge/LinkedIn-Dishika%20Agarwal-blue?style=for-the-badge&logo=linkedin">
-  </a>
 </p>
-
 
 ---
 
-⭐ *“Learning, leading, and growing—one step at a time.”*
-## Hi there 👋
-
-<!--
-**DishikaAgarwal27/DishikaAgarwal27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>“Learning with intent. Leading with responsibility. Building for impact.”</i>
+</p>
