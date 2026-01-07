@@ -44,10 +44,11 @@ I believe great solutions come from:
 
 ---
 
-## 🚀 Current Focus
-- Strengthening **core computer science concepts**
-- Improving **web development skills**
-- Participating in **events, tech communities & hackathons**
+## 🎯 Current Focus
+- Working on strengthening **core Computer Science fundamentals**
+- Working on applying **theoretical concepts to practical problems**
+- Working on building a strong foundation in **software development**
+- Working on preparing for **internships and industry exposure**
 
 ---
 
@@ -62,7 +63,6 @@ I believe great solutions come from:
 
 ---
 
-## 🌐 Connect With Me
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/DishikaAgarwal27">
