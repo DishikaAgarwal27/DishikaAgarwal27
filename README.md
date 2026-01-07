@@ -1,7 +1,7 @@
 <h1 align="center">Dishika Agarwal</h1>
 
 <p align="center">
-  <b>B.Tech CSE (2nd Year) | Event Management Team Leader | Tech Enthusiast</b><br>
+  <b>B.Tech CSE (2nd Year) | Event Management Team Leader at PU-INCENT | Tech Enthusiast</b><br>
   <i>Poornima University, Jaipur</i>
 </p>
 
@@ -20,6 +20,9 @@ I believe great solutions come from:
 - Clear thinking 🧠
 - Strong teamwork 🤝
 - Continuous learning 📚
+- Effective communication 🗣️
+- Adaptability in changing environments
+- Responsibility and ownership
 
 ---
 
@@ -58,10 +61,11 @@ I believe great solutions come from:
 ---
 
 ## 🎯 Current Focus
-- Strengthening **core CSE fundamentals**
-- Improving **problem-solving skills**
-- Building a strong **technical + leadership profile**
-- Preparing for **internships and real-world projects**
+- Working on strengthening **core Computer Science fundamentals**
+- Working on applying **theoretical concepts to practical problems**
+- Working on building a strong foundation in **software development**
+- Working on preparing for **internships and industry exposure**
+
 
 ---
 
@@ -74,12 +78,13 @@ I believe great solutions come from:
 ---
 
 ## 🌐 Let’s Connect
+## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
-    <img src="https://img.shields.io/badge/LinkedIn-Dishika%20Agarwal-blue?style=for-the-badge&logo=linkedin">
-  </a>
   <a href="https://github.com/DishikaAgarwal27">
     <img src="https://img.shields.io/badge/GitHub-DishikaAgarwal27-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/dishika-agarwal-911a01330">
+    <img src="https://img.shields.io/badge/LinkedIn-Dishika%20Agarwal-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
