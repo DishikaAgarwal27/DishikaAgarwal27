@@ -18,9 +18,12 @@
 ## 🛠 Skills & Technologies
 
 ### 💻 Programming & Web
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,mysql" />
-</p>
+### 💻 Programming Languages & Technologies
+- **Python**
+- **HTML**
+- **CSS**
+- **MySQL**
+
 
 ### 🎨 Other Skills
 - Visual Communication (Canva)
@@ -48,14 +51,16 @@
 ---
 
 ## 🌐 Connect With Me
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/DishikaAgarwal27">
     <img src="https://img.shields.io/badge/GitHub-DishikaAgarwal27-black?style=for-the-badge&logo=github">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Add%20Soon-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/dishika-agarwal-911a01330">
+    <img src="https://img.shields.io/badge/LinkedIn-Dishika%20Agarwal-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
+
 
 ---
 
