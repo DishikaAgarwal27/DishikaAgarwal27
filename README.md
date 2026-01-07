@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Dishika Agarwal</h1>
+<h1 align="center">Dishika Agarwal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+CSE+2nd+Year+Student;Event+Management+Team+Leader+@PU-INCENT;Tech+Enthusiast;Creative+%7C+Leader+%7C+Learner&center=true&width=550&height=45">
+  <b>B.Tech CSE (2nd Year) | Event Management Team Leader | Tech Enthusiast</b><br>
+  <i>Poornima University, Jaipur</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+skills+with+purpose;Leading+teams+with+clarity;Learning+technology+deeply&center=true&width=520&height=40">
 </p>
 
 ---
