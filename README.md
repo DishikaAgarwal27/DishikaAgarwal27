@@ -11,13 +11,13 @@
 
 ---
 
-## 🌸 About Me
+##  About Me
 
-- 🎓 **B.Tech CSE (2nd Year)** at *Poornima University, Jaipur*
-- 🧭 **Event Management Team Leader** at **PU-INCENT**
-- 💻 Passionate **Tech Enthusiast**
-- 🎨 Strong in **visual communication & creative presentation**
-- 🚀 Love exploring tech, teamwork & innovation
+-  **B.Tech CSE (2nd Year)** at *Poornima University, Jaipur*
+-  **Event Management Team Leader** at **PU-INCENT**
+-  Passionate **Tech Enthusiast**
+-  Strong in **visual communication & creative presentation**
+-  Love exploring tech, teamwork & innovation
 
 - I’m a **Computer Science student** who enjoys working at the intersection of  
 **technology, leadership, and creativity**.
