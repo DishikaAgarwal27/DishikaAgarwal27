@@ -1,7 +1,7 @@
 <h1 align="center">Dishika Agarwal</h1>
 
 <p align="center">
-  <b>B.Tech CSE (2nd Year) | Event Management Team Leader | Tech Enthusiast</b><br>
+  <b>B.Tech CSE (2nd Year) Tech Enthusiast</b><br>
   <i>Poornima University, Jaipur</i>
 </p>
 
@@ -14,7 +14,6 @@
 ##  About Me
 
 -  **B.Tech CSE (2nd Year)** at *Poornima University, Jaipur*
--  **Event Management Team Leader** at **PU-INCENT**
 -  Passionate **Tech Enthusiast**
 -  Strong in **visual communication & creative presentation**
 -  Love exploring tech, teamwork & innovation
@@ -41,7 +40,7 @@ I believe great solutions come from:
 
 ### 🎨 Other Skills
 - Visual Communication (Canva)
-- Event Planning & Team Leadership
+- Leadership and Management
 - Creative Content Design
 - Effective communication
 - Adaptability in changing environments
